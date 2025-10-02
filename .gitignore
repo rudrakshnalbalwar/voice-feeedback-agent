@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Environment variables
+.env
+
+# Output files
+out/*.txt
+out/*.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
