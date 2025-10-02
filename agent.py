@@ -428,7 +428,7 @@ class FeedbackVoiceAgent(VoiceAgent):
         if auto_disconnect:
             print("👋 Auto-disconnecting in 1 second...")
             await asyncio.sleep(1)  # Short delay to ensure final message is sent
-            await self.session.aclose()
+            await self.ctx.room.disconnect()
             print("🔌 Session closed")
 
 
