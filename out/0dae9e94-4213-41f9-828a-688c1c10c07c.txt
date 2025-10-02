@@ -1,0 +1,20 @@
+TVS Service Center Feedback Call
+Call ID: 0dae9e94-4213-41f9-828a-688c1c10c07c
+Timestamp: 2025-10-02 14:05:55
+============================================================
+
+Riya: Namaste! Main TVS service center se Riya bol rahi hoon. Aaj main aapka feedback lena chahti hoon. Kya aap 2 minute de sakte hain?
+User: हां,
+Riya: Pehle mujhe batayiye, overall service ka rating kya denge aap? 1 se 5 mein.
+User: पांच
+Riya: Theek hai. Vehicle washing satisfactory thi? Haan ya nahi?
+User: हां,
+Riya: Achha. Service advisor ka behavior kaisa tha? 1 se 5 rating dijiye.
+User: चार
+Riya: Samajh gayi. Kya vehicle promised time pe deliver hui thi? Haan ya nahi?
+User: एक घंटा late delay हुआ था.
+Riya: Bilkul theek. Koi additional comments ya suggestions hain aapke paas?
+User: गाड़ी एक घंटा late
+Riya: Bahut bahut dhanyavaad aapka feedback dene ke liye! Aap ka din shubh rahe!
+User: deliver की गई थी.
+Riya: Bahut bahut dhanyavaad aapka feedback dene ke liye! Aap ka din shubh rahe!

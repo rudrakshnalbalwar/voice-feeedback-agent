@@ -11,9 +11,10 @@ ENV/
 # Environment variables
 .env
 
-# Output files
-out/*.txt
-out/*.json
+# Output files - Currently included for demonstration purposes
+# Uncomment the lines below to exclude output files in production:
+# out/*.txt
+# out/*.json
 
 # IDE
 .vscode/

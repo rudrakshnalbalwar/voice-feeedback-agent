@@ -1,0 +1,13 @@
+{
+  "call_id": "0dae9e94-4213-41f9-828a-688c1c10c07c",
+  "timestamp_ist": "2025-10-02 14:05:55",
+  "language": "hinglish",
+  "answers": {
+    "q1_overall_rating_1to5": 5,
+    "q2_washing_yesno": "yes",
+    "q3_advisor_behavior_1to5": 4,
+    "q4_promised_time_yesno": "unknown",
+    "q5_additional_comments_text": "गाड़ी एक घंटा late"
+  },
+  "transcript_path": "./out/0dae9e94-4213-41f9-828a-688c1c10c07c.txt"
+}

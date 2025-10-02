@@ -1,0 +1,13 @@
+{
+  "call_id": "6e8fc43b-e785-4edc-8960-0e5512295ae7",
+  "timestamp_ist": "2025-10-02 14:22:30",
+  "language": "hinglish",
+  "answers": {
+    "q1_overall_rating_1to5": 5,
+    "q2_washing_yesno": "yes",
+    "q3_advisor_behavior_1to5": 5,
+    "q4_promised_time_yesno": "yes",
+    "q5_additional_comments_text": "नहीं,"
+  },
+  "transcript_path": "./out/6e8fc43b-e785-4edc-8960-0e5512295ae7.txt"
+}
